@@ -3,7 +3,6 @@
 **Senior Software Engineer @ Samsung R&D** · Android · ML/AI · Systems
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:faiyajbinamin@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://linkedin.com/in/faiyajbinamin)
 
 ---
